@@ -10,6 +10,7 @@
 | [0049-group-anagrams](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0881-boats-to-save-people](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -74,4 +75,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
