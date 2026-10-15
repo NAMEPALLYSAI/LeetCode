@@ -10,6 +10,7 @@
 | [0049-group-anagrams](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0881-boats-to-save-people](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -20,6 +21,7 @@
 | [0001-two-sum](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -86,4 +88,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
