@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0136-single-number](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -92,4 +93,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
