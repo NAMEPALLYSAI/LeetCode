@@ -46,6 +46,7 @@
 | [0049-group-anagrams](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1768-merge-strings-alternately](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0881-boats-to-save-people](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1768-merge-strings-alternately](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
