@@ -16,6 +16,7 @@
 | [0260-single-number-iii](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0881-boats-to-save-people](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/0881-boats-to-save-people) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/NAMEPALLYSAI/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
